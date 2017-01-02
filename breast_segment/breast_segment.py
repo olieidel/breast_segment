@@ -9,7 +9,6 @@ from scipy.ndimage import binary_fill_holes
 from scipy.misc import imresize
 
 
-# TODO: implement threshold variable
 def breast_segment(im, scale_factor=0.25, threshold=3900, felzenzwalb_scale=0.15):
     """
     Fully automated breast segmentation in mammographies.
