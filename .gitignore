@@ -87,3 +87,7 @@ ENV/
 
 # Rope project settings
 .ropeproject
+/examples/.DS_Store
+/.DS_Store
+examples/files/
+/images/.DS_Store
