@@ -136,8 +136,8 @@ MIT
 [ddsm_examples.ipynb]: https://github.com/olieidel/breast_segment/blob/master/examples/ddsm_examples.ipynb
 
 <!-- Github Links -->
-[Oliver Eidel]: https://www.eidel.io
-[@olieidel]: https://www.eidel.io
+[Oliver Eidel]: http://www.eidel.io
+[@olieidel]: http://www.eidel.io
 
 <!-- Repos -->
 [ljpeg3]: https://github.com/olieidel/ljpeg3
